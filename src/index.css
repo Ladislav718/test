@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#obrazok {
+    border-radius: 25em 25em 8em 25em;
+}
